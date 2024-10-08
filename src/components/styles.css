@@ -1,0 +1,22 @@
+#container {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    color: black;
+    height: auto;
+    width: 300px;
+    background-color: beige;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    border: 2px solid red;
+}
